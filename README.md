@@ -1,4 +1,5 @@
 # Effective Software Testing
+* From manual to automation
 
 ## Outline
 * Foundation of Software Testing
